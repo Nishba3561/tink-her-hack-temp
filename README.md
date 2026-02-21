@@ -2,39 +2,38 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [FutureMap] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [TechTry]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [NAVAMI THILAK P] - [GOVERNMENT ENGINEERING COLLEGE IDUKKI]
+- Member 2: [NISHBA K] - [GOVERNMENT ENGINEERING COLLEGE IDUKKI]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://nishba3561.github.io/FutureMap/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[FutureMap is a web-based career guidance platform that helps students discover suitable future paths based on their interests and personal priorities. By selecting what matters most to them, users receive personalized career recommendations along with a simple roadmap to achieve their goals.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many students struggle to choose the right future path due to a lack of clarity about their interests, values, and long-term goals. Without proper guidance, they often make decisions based on external pressure or limited information, leading to confusion and dissatisfaction. There is a need for a simple and structured system that helps students identify suitable career options based on what truly matters to them.]
 
 ### The Solution
-[How are you solving it?]
+[FutureMap is a web-based platform that helps students discover suitable future paths based on their interests and personal priorities. By selecting what matters most to them, the system uses a structured dataset and matching algorithm to provide personalized career recommendations along with a basic roadmap for achieving their goals.]
 
----
 
 ## Technical Details
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [JavaScript,Html,Css]
+- Frameworks used: []
+- Libraries used: []
+- Tools used: [VS Code, Git]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,12 +45,17 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [animated landing]
+- Feature 2: [glowing title]
+- Feature 3: [Dark theme]
+- Feature 4: [start button]
+- Feature 5: [vibrant colors]
+- Feature 6: [floating option]
+- Feature 7: [dynamic selection ]
+- Feature 8: [smooth navigation]
+- Feature 9: [easy integration]
+- Feature 10: [career suggestion]
 
----
 
 ## Implementation
 
@@ -59,12 +63,12 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands - git clone <https://github.com/Nishba3561/FutureMap>]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - git --version]
 ```
 
 ### For Hardware:
@@ -83,13 +87,14 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![[starting](https://github.com/user-attachments/assets/45a135a0-e63c-4f09-b8ef-3932b1f77756)](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![second](https://github.com/user-attachments/assets/70cf3d5a-60f8-4ae7-bab6-1d70865dc4c6)
+](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![[choose](https://github.com/user-attachments/assets/6eba929e-627e-4bde-a227-bed2f5419b2c)](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 #### Diagrams
@@ -400,9 +405,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [NISHBA K]: [Specific contributions - Frontend development]
+- [NAVAMI THILAK P]: [Specific contributions -  Database design]
 
 ---
 
